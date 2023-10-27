@@ -1,3 +1,10 @@
+'''
+# Team ID:          2151
+# Team Name:        PixelQuad
+# Theme:            Luminosity Drone
+# Author List:      shrijal2410, rmehta8085, vishalq185m, aniketkumar_8
+'''
+
 #!/usr/bin/env python3
 
 from swift_msgs.msg import *
